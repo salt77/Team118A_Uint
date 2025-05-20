@@ -8,7 +8,7 @@
 
 ## Youtube Video 
 (5인 팀) 블루아카이브 모작  
-(https://w.namu.la/s/9a2bd12a2c488026b0c552bd6527248ba60e70bf6e6d07e9c3a7f500fba5a9f0f74cb75a8fcd42babc39fa9abeec697c6dd86cd7c766515834b94b10746f95c898e0149438667e5a5f9ae7d85387c8e3f5625d227d49c1f330808e04ed699adf)(https://youtu.be/1sMdQW8UJuA)  
+(https://youtu.be/1sMdQW8UJuA)  
 
 ## About This Project
 제작 기간 :           2021/12 ~ 2022/02 약 3개월  
