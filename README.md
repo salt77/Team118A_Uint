@@ -13,7 +13,7 @@
 ## About This Project
 제작 기간 :           2021/12 ~ 2022/02 약 3개월  
 제작 인원 :           5인 (팀장 김민현, 팀원 이제영, 강민우, 민종호, 최은호)  
-메인 담당 파트 :      캐릭터, 카메라, 카메라 툴, 대화문, 헤세드(보스)
+메인 담당 파트 :      캐릭터, 카메라(Engine, Client, Tool), 카메라 툴, 스토리 대화문, 보스 몬스터 (헤세드)
 개발 도구 및 환경 :   C++ 11, DirectX 9, MFC, LibXL, Visual Studio 2017, Github Desktop  
 
 
