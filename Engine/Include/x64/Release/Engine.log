@@ -1,0 +1,621 @@
+﻿FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\salt7\Desktop\pf\Team_MHCompany-main\Team118A_Uint\Engine\Bin\Shader_Base.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\salt7\Desktop\pf\Team_MHCompany-main\Team118A_Uint\Engine\Bin\Shader_Blur.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\salt7\Desktop\pf\Team_MHCompany-main\Team118A_Uint\Engine\Bin\Shader_Effect_Blend.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\salt7\Desktop\pf\Team_MHCompany-main\Team118A_Uint\Engine\Bin\Shader_GodRay.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\salt7\Desktop\pf\Team_MHCompany-main\Team118A_Uint\Engine\Bin\Shader_LightMgr.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\salt7\Desktop\pf\Team_MHCompany-main\Team118A_Uint\Engine\Bin\Shader_PostProcess.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\salt7\Desktop\pf\Team_MHCompany-main\Team118A_Uint\Engine\Bin\Shader_Show_Base.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\salt7\Desktop\pf\Team_MHCompany-main\Team118A_Uint\Engine\Bin\Shader_Show_Blend.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\salt7\Desktop\pf\Team_MHCompany-main\Team118A_Uint\Engine\Bin\Shader_Show_Shade.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\salt7\Desktop\pf\Team_MHCompany-main\Team118A_Uint\Engine\Bin\Shader_Trail.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\salt7\Desktop\pf\Team_MHCompany-main\Team118A_Uint\Engine\Bin\Shader_Ui.cso
+  ActionCam_Mgr.cpp
+  AttackObj.cpp
+  BackBoard.cpp
+  Binah.cpp
+  Binah_Environment.cpp
+  Binah_Halo.cpp
+  Binah_Tail.cpp
+  BossMonster.cpp
+  Boss_HpBar.cpp
+  Bullet_Bezier.cpp
+  Bullet_Dead.cpp
+  Bullet_Normal.cpp
+  Bullet_Normal_Monster.cpp
+  Bullet_Normal_Trail.cpp
+  Bullet_Parabola_Monster.cpp
+  Bullet_Run_Normal.cpp
+  CamControl_At.cpp
+  CamControl_Eye.cpp
+  Char_Zunko.cpp
+  Chesed_Circle_Bullet.cpp
+  Chesed_Direct_Laser.cpp
+  Chesed_Normal_Bullet.cpp
+  Chesed_Web_Laser.cpp
+  CircleGuide.cpp
+  Hod_Tower.cpp
+  LoadingManager.cpp
+  CombatTile.cpp
+  CrossRectBuffer.cpp
+  CutDonutGuide.cpp
+  DonutGuide.cpp
+  Drone_Bullet.cpp
+  FanGuide.cpp
+  Goliath_Decagram_Vulcan.cpp
+  Hiero_G_Lantern.cpp
+  Hiero_R_Lantern.cpp
+  Hod.cpp
+  Hod_Cannon.cpp
+  Invite_Character.cpp
+  KuroGround.cpp
+  Kuro_Car.cpp
+  Kuro_Cup.cpp
+  Kuro_Horse.cpp
+  Run_Chesed.cpp
+  Run_Drone.cpp
+  Run_Obstacle.cpp
+  Run_Unit.cpp
+  SkillGuideObject.cpp
+  SkillObject.cpp
+C:\Users\salt7\Desktop\pf\Team_MHCompany-main\Team118A_Uint\Engine\Code\Invite_Character.cpp(1498,14): warning C4244: '초기화 중': 'double'에서 'Engine::_float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\salt7\Desktop\pf\Team_MHCompany-main\Team118A_Uint\Engine\Code\Invite_Character.cpp(1506,14): warning C4244: '초기화 중': 'double'에서 'Engine::_float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SkyDome.cpp
+  SphereTex2.cpp
+  StraightGuide.cpp
+  Tanmak_Effect.cpp
+  Trail_Fix.cpp
+  UISkillObject.cpp
+  Warning_Mgr.cpp
+  Hieronymus.cpp
+  Kuro.cpp
+  Run_Map.cpp
+  Mascot.cpp
+  QuatCamera.cpp
+  Run_Player.cpp
+  Shiro.cpp
+  Shiro_Ball.cpp
+  Shiro_Bomb_S.cpp
+  Soldier_YohekiPink_SMG.cpp
+  AniCtrl.cpp
+  BoxCat.cpp
+  Camera.cpp
+  Camera_Cafe.cpp
+  Camera_TPS.cpp
+  Character.cpp
+  CharacterMgr.cpp
+  Char_Airi.cpp
+  Char_Akane.cpp
+  Char_Aris.cpp
+  Char_Aru.cpp
+  Char_Azusa.cpp
+  Char_Chinatsu.cpp
+  Char_Chise.cpp
+  Char_Eimi.cpp
+  Char_Hasumi.cpp
+  Char_Hibiki.cpp
+  Char_Hina.cpp
+  Char_Iori.cpp
+  Char_Izumi.cpp
+  Char_Juri.cpp
+  Char_Karin.cpp
+  Char_Kayoko.cpp
+  Char_Kirino.cpp
+  Char_Maki.cpp
+  Char_Mashiro.cpp
+  Char_Momoi.cpp
+  Char_Mutsuki.cpp
+  Char_Neru.cpp
+  Char_Nodoka.cpp
+  Char_Pina.cpp
+  Char_Serika.cpp
+  Char_Shun.cpp
+  Char_Sumire.cpp
+  Char_Suzumi.cpp
+  Char_Utaha.cpp
+  Char_Wakamo.cpp
+  Char_Yoshimi.cpp
+  Char_Yuzu.cpp
+  Collider.cpp
+  CollisionManager.cpp
+  Component.cpp
+  Cook_GenbuStore_AR.cpp
+  Cook_GenbuStore_MG.cpp
+  Cook_GenbuStore_SG.cpp
+  DataManager.cpp
+  DataParsing.cpp
+  Dialog_Manager.cpp
+  DMesh.cpp
+  Droid_HelmetBoss_SMG.cpp
+  Droid_Helmet_AR.cpp
+  Droid_Helmet_RL.cpp
+  Droid_Helmet_SMG.cpp
+  Droid_Yoheki_Shield.cpp
+  Drone_Decagram_Missile.cpp
+  Drone_Decagram_Vulcan.cpp
+  DynamicCamera.cpp
+  EffectObject.cpp
+  EMesh.cpp
+  EnemyTSS_Aparche_Blackmarket.cpp
+  EnemyTSS_Crusader_PMC.cpp
+  FogManager.cpp
+  FontMgr.cpp
+  FoodTruck_GenbuStore_MG.cpp
+  Frame.cpp
+  FrameMgr.cpp
+  FX_Utaha_Original_Turret.cpp
+  GameManager.cpp
+  GameObject.cpp
+  GasMask_Arius_HMG.cpp
+  GasMask_Arius_SMG.cpp
+  GraphicDev.cpp
+  HeavyTank01_Helmet_Cannon.cpp
+  HeavyTank_Decagram_Cannon.cpp
+  HierarchyLoader.cpp
+  Kaitenranger_Black_HG.cpp
+  Kaitenranger_Green_HMG.cpp
+  Kaitenranger_Pink_RL.cpp
+  Kaitenranger_Red_AR.cpp
+  Kaitenranger_Yellow_SR.cpp
+  KeyManager.cpp
+  KumabotPapa_Slumpia_SG.cpp
+  Layer.cpp
+  Light.cpp
+  LightMgr.cpp
+  LightTank_Helmet_Vulcan.cpp
+  Line.cpp
+  Management.cpp
+  Obstacle_Cafe.cpp
+  Obstacle_Combat.cpp
+  Obstacle.cpp
+  Monster.cpp
+  MyFont.cpp
+  MyMath.cpp
+  ParticleObject.cpp
+  PrefabManager.cpp
+  ProtoMgr.cpp
+  RectBuffer.cpp
+  RectTest.cpp
+  Renderer.cpp
+  RenderTarget.cpp
+  RenderTargetMgr.cpp
+  RoyalGuard_RedWinterSergeant_AR.cpp
+  RoyalGuard_RedWinter_AR.cpp
+C:\Users\salt7\Desktop\pf\Team_MHCompany-main\Team118A_Uint\Engine\Code\MyMath.cpp(67,12): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\salt7\Desktop\pf\Team_MHCompany-main\Team118A_Uint\Engine\Code\MyMath.cpp(70,12): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\salt7\Desktop\pf\Team_MHCompany-main\Team118A_Uint\Engine\Code\MyMath.cpp(76,12): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\salt7\Desktop\pf\Team_MHCompany-main\Team118A_Uint\Engine\Code\MyMath.cpp(79,12): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\salt7\Desktop\pf\Team_MHCompany-main\Team118A_Uint\Engine\Code\MyMath.cpp(82,12): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\salt7\Desktop\pf\Team_MHCompany-main\Team118A_Uint\Engine\Code\MyMath.cpp(85,14): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\salt7\Desktop\pf\Team_MHCompany-main\Team118A_Uint\Engine\Code\MyMath.cpp(88,12): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\salt7\Desktop\pf\Team_MHCompany-main\Team118A_Uint\Engine\Code\MyMath.cpp(99,12): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\salt7\Desktop\pf\Team_MHCompany-main\Team118A_Uint\Engine\Code\MyMath.cpp(105,12): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\salt7\Desktop\pf\Team_MHCompany-main\Team118A_Uint\Engine\Code\MyMath.cpp(108,12): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\salt7\Desktop\pf\Team_MHCompany-main\Team118A_Uint\Engine\Code\MyMath.cpp(137,40): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\salt7\Desktop\pf\Team_MHCompany-main\Team118A_Uint\Engine\Code\MyMath.cpp(145,12): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\salt7\Desktop\pf\Team_MHCompany-main\Team118A_Uint\Engine\Code\MyMath.cpp(363,12): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\salt7\Desktop\pf\Team_MHCompany-main\Team118A_Uint\Engine\Code\MyMath.cpp(364,31): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\salt7\Desktop\pf\Team_MHCompany-main\Team118A_Uint\Engine\Code\MyMath.cpp(365,23): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\salt7\Desktop\pf\Team_MHCompany-main\Team118A_Uint\Engine\Code\MyMath.cpp(366,8): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  RoyalGuard_RedWinter_GL.cpp
+  RoyalGuard_RedWinter_SMG.cpp
+  Scene.cpp
+  SchoolGirl01_SukebanSwim_SMG.cpp
+  SchoolGirl01_Sukeban_SMG.cpp
+  SchoolGirl02_SukebanSwim_SR.cpp
+  SchoolGirl02_Sukeban_SR.cpp
+  SchoolGirl03_SukebanSwim_MG.cpp
+  SchoolGirl03_Sukeban_HMG.cpp
+  SchoolGirlBoss02_SukebanSwim_MG.cpp
+  Shader.cpp
+  Skill_Manager.cpp
+  Calculator.cpp
+  Soldier_Blackmarket_RL.cpp
+  Soldier_Fuuki_MG.cpp
+  Soldier_Helmet_AR.cpp
+  Soldier_Helmet_SG.cpp
+  Soldier_Helmet_SR.cpp
+  Soldier_Kaiserpmc_HG.cpp
+  Soldier_RedWinterYoheki_SG.cpp
+  Soldier_RedWinterYoheki_SR.cpp
+  Soldier_RWY_AR.cpp
+  Soldier_YohekiPink_MG.cpp
+  Sound_Manager.cpp
+  SphereCollider.cpp
+  SMesh.cpp
+  StageMap.cpp
+  StaticObject.cpp
+  Sukeban_MG.cpp
+  Sukeban_SMG.cpp
+  Sukeban_SR.cpp
+  Sweeper_Decagram_Taser.cpp
+  TechSoldier_Decagram_AR.cpp
+  Terror_Droid_Mimesis_AR.cpp
+  Terror_Droid_Mimesis_RL.cpp
+  Terror_Droid_Mimesis_Shield.cpp
+  Terror_GasMask_Arius_GL.cpp
+  Terror_GasMask_Arius_HMG.cpp
+  Terror_GasMask_Arius_SMG.cpp
+  Texture.cpp
+  TileField.cpp
+  Timer.cpp
+  TimerMgr.cpp
+  TimeScale_Manager.cpp
+  Transform.cpp
+  UI_Damage.cpp
+  UI_Manager.cpp
+  UI_Object.cpp
+  UI_Scroll_View.cpp
+  UI_Slider_Vert.cpp
+  Unit.cpp
+  Utility.cpp
+  VIBuffer.cpp
+  Wall512.cpp
+  Warning.cpp
+  WorldCreator.cpp
+  WorldUI.cpp
+  XL_ParsingMgr.cpp
+  YukataHanya_StreetGhostes_SR.cpp
+  YukataHanya_StreetGhostes_SR_Cannon.cpp
+  YukataHanya_StreetGhostes_SR_Turret.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2541,23): warning C4244: '인수': '_Elem'에서 'const _Elem'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Elem=wchar_t
+          ]
+          and
+          [
+              _Elem=char
+          ] (소스 파일 컴파일 중 ..\Code\Utility.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2552): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<_Iter>(_Iter,const _Iter,std::input_iterator_tag)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Iter=wchar_t *
+          ] (소스 파일 컴파일 중 ..\Code\Utility.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2552): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<_Iter>(_Iter,const _Iter,std::input_iterator_tag)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Iter=wchar_t *
+          ] (소스 파일 컴파일 중 ..\Code\Utility.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2532): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<_Iter>(const _Iter,const _Iter,std::forward_iterator_tag)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Iter=wchar_t *
+          ] (소스 파일 컴파일 중 ..\Code\Utility.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2532): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<_Iter>(const _Iter,const _Iter,std::forward_iterator_tag)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Iter=wchar_t *
+          ] (소스 파일 컴파일 중 ..\Code\Utility.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(3260): message : 컴파일되는 함수 템플릿 인스턴스화 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<wchar_t*,0>(_Iter,_Iter,const _Alloc &)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Iter=wchar_t *,
+              _Alloc=std::allocator<char>
+          ] (소스 파일 컴파일 중 ..\Code\Utility.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(3260): message : 컴파일되는 함수 템플릿 인스턴스화 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<wchar_t*,0>(_Iter,_Iter,const _Alloc &)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Iter=wchar_t *,
+              _Alloc=std::allocator<char>
+          ] (소스 파일 컴파일 중 ..\Code\Utility.cpp)
+C:\Users\salt7\Desktop\pf\Team_MHCompany-main\Team118A_Uint\Engine\Code\Utility.cpp(420): message : 컴파일되는 함수 템플릿 인스턴스화 'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::assign<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(const _Iter,const _Iter)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>
+          ]
+C:\Users\salt7\Desktop\pf\Team_MHCompany-main\Team118A_Uint\Engine\Code\Utility.cpp(420): message : 컴파일되는 함수 템플릿 인스턴스화 'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::assign<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(const _Iter,const _Iter)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>
+          ]
+  Yukata_StreetGhostes_MG.cpp
+  Yukata_StreetGhostes_RL.cpp
+  Yukata_StreetGhostes_SG.cpp
+  Yukata_StreetGhostes_SG_Turret.cpp
+  Yustina_AR.cpp
+  Yustina_SMG.cpp
+  Yustina_SR.cpp
+C:\Users\salt7\Desktop\pf\Team_MHCompany-main\Team118A_Uint\Engine\Code\Unit.cpp(2287,14): warning C4244: '초기화 중': 'double'에서 'Engine::_float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\salt7\Desktop\pf\Team_MHCompany-main\Team118A_Uint\Engine\Code\Unit.cpp(2295,14): warning C4244: '초기화 중': 'double'에서 'Engine::_float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     ../Bin\Engine.lib 라이브러리 및 ../Bin\Engine.exp 개체를 생성하고 있습니다.
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 17274 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  Engine.vcxproj -> C:\Users\salt7\Desktop\pf\Team_MHCompany-main\Team118A_Uint\Engine\Bin\Engine.dll
+  .\Engine\Code\ActionCam_Mgr.h
+  .\Engine\Code\AniCtrl.h
+  .\Engine\Code\AttackObj.h
+  .\Engine\Code\AttackObj_Monster.h
+  .\Engine\Code\AttackObj_Player.h
+  .\Engine\Code\BackBoard.h
+  .\Engine\Code\Binah.h
+  .\Engine\Code\Binah_Environment.h
+  .\Engine\Code\Binah_Halo.h
+  .\Engine\Code\Binah_Tail.h
+  .\Engine\Code\BombEffect.h
+  .\Engine\Code\BossMonster.h
+  .\Engine\Code\Boss_HpBar.h
+  .\Engine\Code\BoxCat.h
+  .\Engine\Code\Bullet_Bezier.h
+  .\Engine\Code\Bullet_Dead.h
+  .\Engine\Code\Bullet_Normal.h
+  .\Engine\Code\Bullet_Normal_Monster.h
+  .\Engine\Code\Bullet_Normal_Trail.h
+  .\Engine\Code\Bullet_Parabola_Monster.h
+  .\Engine\Code\Bullet_Run_Normal.h
+  .\Engine\Code\Calculator.h
+  .\Engine\Code\CamControl_At.h
+  .\Engine\Code\CamControl_Eye.h
+  .\Engine\Code\Camera.h
+  .\Engine\Code\Camera_Cafe.h
+  .\Engine\Code\Camera_TPS.h
+  .\Engine\Code\Character.h
+  .\Engine\Code\CharacterMgr.h
+  .\Engine\Code\Char_Airi.h
+  .\Engine\Code\Char_Akane.h
+  .\Engine\Code\Char_Aris.h
+  .\Engine\Code\Char_Aru.h
+  .\Engine\Code\Char_Azusa.h
+  .\Engine\Code\Char_Chinatsu.h
+  .\Engine\Code\Char_Chise.h
+  .\Engine\Code\Char_Eimi.h
+  .\Engine\Code\Char_Hasumi.h
+  .\Engine\Code\Char_Hibiki.h
+  .\Engine\Code\Char_Hina.h
+  .\Engine\Code\Char_Iori.h
+  .\Engine\Code\Char_Izumi.h
+  .\Engine\Code\Char_Juri.h
+  .\Engine\Code\Char_Karin.h
+  .\Engine\Code\Char_Kayoko.h
+  .\Engine\Code\Char_Kirino.h
+  .\Engine\Code\Char_Maki.h
+  .\Engine\Code\Char_Mashiro.h
+  .\Engine\Code\Char_Momoi.h
+  .\Engine\Code\Char_Mutsuki.h
+  .\Engine\Code\Char_Neru.h
+  .\Engine\Code\Char_Nodoka.h
+  .\Engine\Code\Char_Pina.h
+  .\Engine\Code\Char_Serika.h
+  .\Engine\Code\Char_Shun.h
+  .\Engine\Code\Char_Sumire.h
+  .\Engine\Code\Char_Suzumi.h
+  .\Engine\Code\Char_Utaha.h
+  .\Engine\Code\Char_Wakamo.h
+  .\Engine\Code\Char_Yoshimi.h
+  .\Engine\Code\Char_Yuzu.h
+  .\Engine\Code\Char_Zunko.h
+  .\Engine\Code\Chesed_Circle_Bullet.h
+  .\Engine\Code\Chesed_Direct_Laser.h
+  .\Engine\Code\Chesed_Normal_Bullet.h
+  .\Engine\Code\Chesed_Web_Laser.h
+  .\Engine\Code\CircleGuide.h
+  .\Engine\Code\Collider.h
+  .\Engine\Code\CollisionManager.h
+  .\Engine\Code\CombatTile.h
+  .\Engine\Code\Component.h
+  .\Engine\Code\Cook_GenbuStore_AR.h
+  .\Engine\Code\Cook_GenbuStore_MG.h
+  .\Engine\Code\Cook_GenbuStore_SG.h
+  .\Engine\Code\CrossRectBuffer.h
+  .\Engine\Code\CutDonutGuide.h
+  .\Engine\Code\DataManager.h
+  .\Engine\Code\DataParsing.h
+  .\Engine\Code\Dialog_Manager.h
+  .\Engine\Code\DMesh.h
+  .\Engine\Code\DonutGuide.h
+  .\Engine\Code\Droid_HelmetBoss_SMG.h
+  .\Engine\Code\Droid_Helmet_AR.h
+  .\Engine\Code\Droid_Helmet_RL.h
+  .\Engine\Code\Droid_Helmet_SMG.h
+  .\Engine\Code\Droid_Yoheki_Shield.h
+  .\Engine\Code\Drone_Bullet.h
+  .\Engine\Code\Drone_Decagram_Missile.h
+  .\Engine\Code\Drone_Decagram_Vulcan.h
+  .\Engine\Code\DynamicCamera.h
+  .\Engine\Code\EffectObject.h
+  .\Engine\Code\EMesh.h
+  .\Engine\Code\EnemyTSS_Aparche_Blackmarket.h
+  .\Engine\Code\EnemyTSS_Crusader_PMC.h
+  .\Engine\Code\Engine_Define.h
+  .\Engine\Code\Engine_Enum.h
+  .\Engine\Code\Engine_Function.h
+  .\Engine\Code\Engine_Macro.h
+  .\Engine\Code\Engine_Struct.h
+  .\Engine\Code\Engine_Typedef.h
+  .\Engine\Code\Export_Function.h
+  .\Engine\Code\FanGuide.h
+  .\Engine\Code\FogManager.h
+  .\Engine\Code\FontMgr.h
+  .\Engine\Code\FoodTruck_GenbuStore_MG.h
+  .\Engine\Code\Frame.h
+  .\Engine\Code\FrameMgr.h
+  .\Engine\Code\FX_Utaha_Original_Turret.h
+  .\Engine\Code\GameManager.h
+  .\Engine\Code\GameObject.h
+  .\Engine\Code\GasMask_Arius_HMG.h
+  .\Engine\Code\GasMask_Arius_SMG.h
+  .\Engine\Code\Goliath_Decagram_Vulcan.h
+  .\Engine\Code\GraphicDev.h
+  .\Engine\Code\HeavyTank01_Helmet_Cannon.h
+  .\Engine\Code\HeavyTank_Decagram_Cannon.h
+  .\Engine\Code\HierarchyLoader.h
+  .\Engine\Code\Hieronymus.h
+  .\Engine\Code\Hiero_G_Lantern.h
+  .\Engine\Code\Hiero_R_Lantern.h
+  .\Engine\Code\Hod.h
+  .\Engine\Code\Hod_Cannon.h
+  .\Engine\Code\Hod_Tower.h
+  .\Engine\Code\Invite_Character.h
+  .\Engine\Code\Kaitenranger_Black_HG.h
+  .\Engine\Code\Kaitenranger_Green_HMG.h
+  .\Engine\Code\Kaitenranger_Pink_RL.h
+  .\Engine\Code\Kaitenranger_Red_AR.h
+  .\Engine\Code\Kaitenranger_Yellow_SR.h
+  .\Engine\Code\KeyManager.h
+  .\Engine\Code\KumabotPapa_Slumpia_SG.h
+  .\Engine\Code\Kuro.h
+  .\Engine\Code\KuroGround.h
+  .\Engine\Code\Kuro_Car.h
+  .\Engine\Code\Kuro_Cup.h
+  .\Engine\Code\Kuro_Horse.h
+  .\Engine\Code\Layer.h
+  .\Engine\Code\Light.h
+  .\Engine\Code\LightMgr.h
+  .\Engine\Code\LightTank_Helmet_Vulcan.h
+  .\Engine\Code\Line.h
+  .\Engine\Code\LoadingManager.h
+  .\Engine\Code\Management.h
+  .\Engine\Code\Mascot.h
+  .\Engine\Code\Monster.h
+  .\Engine\Code\MyFont.h
+  .\Engine\Code\MyMath.h
+  .\Engine\Code\Obstacle.h
+  .\Engine\Code\Obstacle_Cafe.h
+  .\Engine\Code\Obstacle_Combat.h
+  .\Engine\Code\ParticleObject.h
+  .\Engine\Code\PrefabManager.h
+  .\Engine\Code\ProtoMgr.h
+  .\Engine\Code\QuatCamera.h
+  .\Engine\Code\RectBuffer.h
+  .\Engine\Code\RectTest.h
+  .\Engine\Code\Renderer.h
+  .\Engine\Code\RenderTarget.h
+  .\Engine\Code\RenderTargetMgr.h
+  .\Engine\Code\RoyalGuard_RedWinterSergeant_AR.h
+  .\Engine\Code\RoyalGuard_RedWinter_AR.h
+  .\Engine\Code\RoyalGuard_RedWinter_GL.h
+  .\Engine\Code\RoyalGuard_RedWinter_SMG.h
+  .\Engine\Code\Run_Chesed.h
+  .\Engine\Code\Run_Drone.h
+  .\Engine\Code\Run_Map.h
+  .\Engine\Code\Run_Obstacle.h
+  .\Engine\Code\Run_Player.h
+  .\Engine\Code\Run_Unit.h
+  .\Engine\Code\Scene.h
+  .\Engine\Code\SchoolGirl01_SukebanSwim_SMG.h
+  .\Engine\Code\SchoolGirl01_Sukeban_SMG.h
+  .\Engine\Code\SchoolGirl02_SukebanSwim_SR.h
+  .\Engine\Code\SchoolGirl02_Sukeban_SR.h
+  .\Engine\Code\SchoolGirl03_SukebanSwim_MG.h
+  .\Engine\Code\SchoolGirl03_Sukeban_HMG.h
+  .\Engine\Code\SchoolGirlBoss02_SukebanSwim_MG.h
+  .\Engine\Code\Shader.h
+  .\Engine\Code\Shiro.h
+  .\Engine\Code\Shiro_Ball.h
+  .\Engine\Code\Shiro_Bomb_S.h
+  .\Engine\Code\SkillGuideObject.h
+  .\Engine\Code\SkillObject.h
+  .\Engine\Code\Skill_Manager.h
+  .\Engine\Code\SkyDome.h
+  .\Engine\Code\SMesh.h
+  .\Engine\Code\Soldier_Blackmarket_RL.h
+  .\Engine\Code\Soldier_Fuuki_MG.h
+  .\Engine\Code\Soldier_Helmet_AR.h
+  .\Engine\Code\Soldier_Helmet_SG.h
+  .\Engine\Code\Soldier_Helmet_SR.h
+  .\Engine\Code\Soldier_Kaiserpmc_HG.h
+  .\Engine\Code\Soldier_RedWinterYoheki_SG.h
+  .\Engine\Code\Soldier_RedWinterYoheki_SR.h
+  .\Engine\Code\Soldier_RWY_AR.h
+  .\Engine\Code\Soldier_YohekiPink_MG.h
+  .\Engine\Code\Soldier_YohekiPink_SMG.h
+  .\Engine\Code\Sound_Manager.h
+  .\Engine\Code\SphereCollider.h
+  .\Engine\Code\SphereTex2.h
+  .\Engine\Code\StageMap.h
+  .\Engine\Code\StaticObject.h
+  .\Engine\Code\StraightGuide.h
+  .\Engine\Code\Sukeban_MG.h
+  .\Engine\Code\Sukeban_SMG.h
+  .\Engine\Code\Sukeban_SR.h
+  .\Engine\Code\Sweeper_Decagram_Taser.h
+  .\Engine\Code\Tanmak_Effect.h
+  .\Engine\Code\TechSoldier_Decagram_AR.h
+  .\Engine\Code\Terror_Droid_Mimesis_AR.h
+  .\Engine\Code\Terror_Droid_Mimesis_RL.h
+  .\Engine\Code\Terror_Droid_Mimesis_Shield.h
+  .\Engine\Code\Terror_GasMask_Arius_GL.h
+  .\Engine\Code\Terror_GasMask_Arius_HMG.h
+  .\Engine\Code\Terror_GasMask_Arius_SMG.h
+  .\Engine\Code\Texture.h
+  .\Engine\Code\TileField.h
+  .\Engine\Code\Timer.h
+  .\Engine\Code\TimerMgr.h
+  .\Engine\Code\TimeScale_Manager.h
+  .\Engine\Code\Trail_Fix.h
+  .\Engine\Code\Transform.h
+  .\Engine\Code\UISkillObject.h
+  .\Engine\Code\UI_Damage.h
+  .\Engine\Code\UI_Manager.h
+  .\Engine\Code\UI_Object.h
+  .\Engine\Code\UI_Scroll_View.h
+  .\Engine\Code\UI_Slider_Vert.h
+  .\Engine\Code\Unit.h
+  .\Engine\Code\Utility.h
+  .\Engine\Code\VIBuffer.h
+  .\Engine\Code\Wall512.h
+  .\Engine\Code\Warning.h
+  .\Engine\Code\Warning_Mgr.h
+  .\Engine\Code\WorldCreator.h
+  .\Engine\Code\WorldUI.h
+  .\Engine\Code\XL_ParsingMgr.h
+  .\Engine\Code\YukataHanya_StreetGhostes_SR.h
+  .\Engine\Code\YukataHanya_StreetGhostes_SR_Cannon.h
+  .\Engine\Code\YukataHanya_StreetGhostes_SR_Turret.h
+  .\Engine\Code\Yukata_StreetGhostes_MG.h
+  .\Engine\Code\Yukata_StreetGhostes_RL.h
+  .\Engine\Code\Yukata_StreetGhostes_SG.h
+  .\Engine\Code\Yukata_StreetGhostes_SG_Turret.h
+  .\Engine\Code\Yustina_AR.h
+  .\Engine\Code\Yustina_SMG.h
+  .\Engine\Code\Yustina_SR.h
+        247개 파일이 복사되었습니다.
+  .\Engine\Code\Shader_Base.fx
+  .\Engine\Code\Shader_Blend.fx
+  .\Engine\Code\Shader_Blur.fx
+  .\Engine\Code\Shader_Effect.fx
+  .\Engine\Code\Shader_Effect_Blend.fx
+  .\Engine\Code\Shader_GodRay.fx
+  .\Engine\Code\Shader_LightMgr.fx
+  .\Engine\Code\Shader_Particle.fx
+  .\Engine\Code\Shader_PostProcess.fx
+  .\Engine\Code\Shader_Shade.fx
+  .\Engine\Code\Shader_Show_Base.fx
+  .\Engine\Code\Shader_Show_Blend.fx
+  .\Engine\Code\Shader_Show_Shade.fx
+  .\Engine\Code\Shader_Trail.fx
+  .\Engine\Code\Shader_Ui.fx
+         15개 파일이 복사되었습니다.
+  .\Engine\Code\*.hpp 
+  지정된 파일을 찾을 수 없습니다.
+          0개 파일이 복사되었습니다.
+  지정된 경로를 찾을 수 없습니다.
+          0개 파일이 복사되었습니다.
+  지정된 경로를 찾을 수 없습니다.
+          0개 파일이 복사되었습니다.
+          1개 파일이 복사되었습니다.

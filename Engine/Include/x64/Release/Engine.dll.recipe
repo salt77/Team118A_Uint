@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\salt7\Desktop\pf\Team_MHCompany-main\Team118A_Uint\Engine\Bin\Engine.dll</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\salt7\Desktop\pf\Team_MHCompany-main\Team118A_Uint\Engine\Bin\Shader_Base.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\salt7\Desktop\pf\Team_MHCompany-main\Team118A_Uint\Engine\Bin\Shader_Blur.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\salt7\Desktop\pf\Team_MHCompany-main\Team118A_Uint\Engine\Bin\Shader_Effect_Blend.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\salt7\Desktop\pf\Team_MHCompany-main\Team118A_Uint\Engine\Bin\Shader_GodRay.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\salt7\Desktop\pf\Team_MHCompany-main\Team118A_Uint\Engine\Bin\Shader_LightMgr.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\salt7\Desktop\pf\Team_MHCompany-main\Team118A_Uint\Engine\Bin\Shader_PostProcess.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\salt7\Desktop\pf\Team_MHCompany-main\Team118A_Uint\Engine\Bin\Shader_Show_Base.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\salt7\Desktop\pf\Team_MHCompany-main\Team118A_Uint\Engine\Bin\Shader_Show_Blend.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\salt7\Desktop\pf\Team_MHCompany-main\Team118A_Uint\Engine\Bin\Shader_Show_Shade.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\salt7\Desktop\pf\Team_MHCompany-main\Team118A_Uint\Engine\Bin\Shader_Trail.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\salt7\Desktop\pf\Team_MHCompany-main\Team118A_Uint\Engine\Bin\Shader_Ui.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
